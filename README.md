@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Im a Discord Bot Developer, Working for multiple servers and doing custom orders.<br>💥Also i share some of my code for everyone!
+⚡ Im a Website & Discord Bot Developer, Working for multiple servers/companies and doing custom orders.<br>💥Also i share some of my code for everyone!
 
 
 ## 🌐 Socials:
